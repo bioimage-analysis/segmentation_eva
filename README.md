@@ -10,5 +10,5 @@ python batch.py --path_source PATH/TO/FILE -drug ctrl -drug Y2 --hard_sup true
 
 ```
 ## Contact
-Cedric Espenel
+Cedric Espenel  
 E-mail: espenel@stanford.edu
